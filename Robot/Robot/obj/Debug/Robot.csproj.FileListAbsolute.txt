@@ -1,0 +1,10 @@
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\bin\Debug\Robot.exe.config
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\bin\Debug\Robot.exe
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\bin\Debug\Robot.pdb
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\obj\Debug\Robot.Robot_Form.resources
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\obj\Debug\Robot.exe
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 4\Robot\Robot\obj\Debug\Robot.pdb
